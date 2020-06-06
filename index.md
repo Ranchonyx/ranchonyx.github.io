@@ -2,6 +2,7 @@
 
 Repos:
 - [ScrapEngine](https://github.com/Ranchonyx/ScrapEngine)
-A thing.
-- [OnyxLib](https://github.com/Ranchonyx/OnyxLib) 
+\nA thing.
+- [OnyxLib](https://github.com/Ranchonyx/OnyxLib)
+\n A library of functions and other useful modules including one for face recognition.
 - [Informatik](https://github.com/Ranchonyx/Informatik)
