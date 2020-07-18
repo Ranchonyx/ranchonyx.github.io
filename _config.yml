@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
 title: Ranchonyx's Webpage
+kramdown:
+  html_to_native: true
+  
