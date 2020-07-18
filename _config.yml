@@ -1,5 +1,9 @@
 theme: jekyll-theme-cayman
 title: Ranchonyx's Webpage
+markdown: kramdown
 kramdown:
-  html_to_native: true
-  
+    html_to_native: true
+    highlighter: rouge
+    syntax_highlighter_opts:
+        block:
+            line_numbers: true
