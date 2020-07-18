@@ -12,3 +12,7 @@ The repository for my high school homework.
 
 - [frameCap](https://github.com/Ranchonyx/frameCap)
 An application for extracting frames from an .mkv video
+
+- [occurrences](https://github.com/Ranchonyx/occurrences)
+Creative name, I know. Counts word occurrences in a as parameter give file.
+Supports .txt, crazy, I know
