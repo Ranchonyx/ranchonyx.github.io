@@ -17,6 +17,9 @@ An application for extracting frames from an .mkv video
 Creative name, I know. Counts word occurrences in a as parameter give file.
 Supports .txt, crazy, I know
 
+### A sample of my coding style.
+> This is the code for an application that counts occurrences of words in a text file.
+
 ```java
 import java.io.*;
 import java.util.HashMap;
