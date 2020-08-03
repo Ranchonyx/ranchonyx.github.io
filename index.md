@@ -1,5 +1,14 @@
 # Welcome to my Page
 
+Check out my GitHub here:
+[Ranchonyx](https://github.com/Ranchonyx)
+
+Send me an Email here:
+[Felix Janetzki](mailto:felixjanetzki@gmail.com?subject=[GitHub Contact])
+
+Ping me on Discord here:
+[Kraut#2929](https://discordapp.com/users/168778401249755137)
+
 Repos:
 - [ScrapEngine](https://github.com/Ranchonyx/ScrapEngine)
 A thing.
@@ -13,9 +22,14 @@ The repository for my high school homework.
 - [frameCap](https://github.com/Ranchonyx/frameCap)
 An application for extracting frames from an .mkv video
 
-- [occurrences](https://github.com/Ranchonyx/occurrences)
+- [Occurrences](https://github.com/Ranchonyx/occurrences)
 Creative name, I know. Counts word occurrences in a as parameter give file.
-Supports .txt, crazy, I know
+
+- [CMDDL](https://github.com/Ranchonyx/CMDDL)
+A simple command line downloader for all file types.
+
+- [LWJBB](https://github.com/Ranchonyx/LWJBB)
+Super lightweight (still java so idk) web browser/content displayer using swing and javafx.
 
 ### A sample of my coding style.
 > This is the code for an application that counts occurrences of words in a text file.
